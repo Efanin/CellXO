@@ -33,7 +33,5 @@ namespace WinFormsApp5
             if (this.combo % combo == 0) 
                 this.combo /= combo;
         }
-
-
     }
 }
